@@ -117,9 +117,7 @@ Open your web browser and go to:
 ---
 
 ## 📞 Contact
-**Developed by Ratandeep**  
-Email: rajatpurohit183@gmail.com
-Address: Dammani Chowk,Bikaner, Rajasthan
+**Developed by Janvi  
 
 ---
 *© 2025 DigiTechHealth. All rights reserved.*
