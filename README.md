@@ -1,7 +1,7 @@
 # DigiTechHealth 🏥
 
 **Hospital Management System**  
-**Creator:** Ratandeep
+**Creator:** Janvi 
 
 DigiTechHealth is a modern, web-based Hospital Management System designed to streamline healthcare operations. It features a futuristic, light-themed user interface with glassmorphism effects, ensuring a premium user experience for doctors, patients, and administrators.
 
