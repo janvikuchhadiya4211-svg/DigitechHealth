@@ -117,7 +117,7 @@ Open your web browser and go to:
 ---
 
 ## 📞 Contact
-**Developed by Janvi  
+**Developed by Janvi**
 
 ---
 *© 2025 DigiTechHealth. All rights reserved.*
